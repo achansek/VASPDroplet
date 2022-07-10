@@ -1,0 +1,1 @@
+This repository contains python notebook to simulate evolution of droplet shapes due to bending energy of actin bundles.
